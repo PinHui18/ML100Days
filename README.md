@@ -1,7 +1,7 @@
 ### NLP 經典機器學習馬拉松
 ##### 從「NLP 經典機器學習馬拉松」AI自學挑戰活動中可以學習到分詞、詞性標註、機器學習模型等知識與實作練習，同時，在AI 人工智慧學習社群以及Python Taiwan交流聚會中，不僅可以了解其他學員面對相同問題的不同解題邏輯之外，也可以互相分享所學。
-### NLP Classic Machine Learning Marathon
-### Learned and applied core NLP techniques, including text segmentation, part-of-speech tagging, text preprocessing, and feature extraction.
-### Built and evaluated machine learning models for text analysis tasks.
-### Collaborated with AI learning communities and Python Taiwan meetups to discuss different approaches to solving NLP challenges and share practical insights.
-### Strengthened Python programming and data analysis skills through hands-on exercises and project-based learning.
+##### NLP Classic Machine Learning Marathon
+##### Learned and applied core NLP techniques, including text segmentation, part-of-speech tagging, text preprocessing, and feature extraction.
+##### Built and evaluated machine learning models for text analysis tasks.
+##### Collaborated with AI learning communities and Python Taiwan meetups to discuss different approaches to solving NLP challenges and share practical insights.
+##### Strengthened Python programming and data analysis skills through hands-on exercises and project-based learning.
